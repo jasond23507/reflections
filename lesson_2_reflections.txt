@@ -1,0 +1,3 @@
+What happens when you initiate a repository? What do you need to do to it?
+
+When you initiate a repository there are no commits. You need to create a commit first. The files are now ready for version control.
